@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NepalAirLink</string>
+    <string name="title_main">NepalAirLink</string>
+    <string-array name="country">
+        <item>USA</item>
+        <item>UK</item>
+        <item>China</item>
+        <item>Italy</item>
+        <item>Norway</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
